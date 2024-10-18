@@ -2,13 +2,46 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Uu]ser[Ss]ettings/
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.csproj
+*.unityproj
+*.sln
+*.sln.*
+*.tmp
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.ilk
+*.ipdb
+
+# Unity auto-generated folders
+Assets/StreamingAssets/
+
+# Build Results
+*.apk
+*.aab
+*.unitypackage
+
+# Crash and error logs
+crashlytics-build.log
+crashlytics.crash
+crashreport.log
+
+# User-specific files
+[Uu]ser[Ss]ettings/
+
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
