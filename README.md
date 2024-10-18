@@ -1,1 +1,6 @@
-# Unity_Sparta2DTopDown
+## ■ **Sparta2DTopDown**
+### ○ 개발기간 : 2024-10-07
+### ○ 개발도구 : Unity, C#
+### ○ 스파르타코딩 - 유니티 입문 주차 강의 실습
+### ○ 2D TopDown 슈팅 게임
+<br>
